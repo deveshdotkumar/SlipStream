@@ -99,7 +99,7 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 
 
 
-Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/bhanu-gupta-5227ba200/) 
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/devesh-kumar-singh-008235209/) 
 
 
 
